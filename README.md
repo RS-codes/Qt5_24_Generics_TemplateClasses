@@ -1,0 +1,1 @@
+# Qt5_24_Generics_TemplateClasses
